@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!;My+name+is+Júlia+Pontirolli;I'm+an+Information+Systems+student+at+FIAP!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!;My+name+is+Júlia+Pontirolli;I'm+an+Information+Systems+student+at+FIAP!;Bem-vindo+ao+meu+perfil!;Meu+nome+é+Júlia+Pontirolli;Estudo+Sistemas+de+Informação+na+FIAP!)](https://git.io/typing-svg)
 
 <div align="center">
   
