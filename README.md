@@ -1,16 +1,24 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!;My+name+is+Júlia+Pontirolli;I'm+an+Information+Systems+student+at+FIAP!)](https://git.io/typing-svg)
 
-<!--
-**jupontirolli/jupontirolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+## Hi there, I'm Júlia! 
 
-Here are some ideas to get you started:
+🎓 Information Systems student at FIAP  
+💻 Learning Java, HTML/CSS, JavaScript and Git/GitHub  
+👩🏻‍💻 Looking for my first internship opportunity in Technology  
+📚 Passionate about tech, books and continuous learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🖥️ Technologies and Skills
+
+<img src="https://skillicons.dev/icons?i=java,html,css,javascript,git,github" />
+
+## Linkedin:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julia%20Pontirolli-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliapontirolli/)
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180px"/>
+</div>
+
